@@ -83,6 +83,6 @@ streamlit run dashboard.py
 
 ---
 
-## 🔥 Author
+## Author
 
 Ryan
